@@ -36,4 +36,4 @@ This project showcases:
 
 Example scatter plot of X-ray vs Radio correlation with regression fit:
 
-![Example Correlation](images/example_correlation.png)
+![Example Correlation](images/correlation-plot.png)
